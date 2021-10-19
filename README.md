@@ -1,2 +1,2 @@
 # WordCounter
- Beginning of WordCounter with Restcontroller
+ Beginning of wordcounter restapi
